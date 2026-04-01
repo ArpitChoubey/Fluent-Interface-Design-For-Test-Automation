@@ -1,13 +1,6 @@
-# MethodChanning
+# Fluent-Interface-Design-For-Test-Automation  (MethodChanning)
 
-## 👨‍💻 Author
 
-**Arpit Choubey — SDET | QA | Automation Engineer**
-🔗 **LinkedIn** | **Medium**
-
-## ⭐ Support
-
-If this repository helps you, please **Star 🌟** it!
 
 ## Folder Structure
 
@@ -124,5 +117,13 @@ Name is Ram Kumar
 * Add a small unit test for the `MethodRepo` behavior if you later evolve the example into a library.
 
 ---
+## 👨‍💻 Author
+
+**Arpit Choubey — SDET | QA | Automation Engineer**
+🔗 **LinkedIn** | **Medium**
+
+## ⭐ Support
+
+If this repository helps you, please **Star 🌟** it!
 
 
